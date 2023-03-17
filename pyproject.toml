@@ -1,0 +1,7 @@
+[project]
+name = "traeger"
+version = "0.2.0"
+dependencies = [
+    "requests>=2.21",
+    "paho_mqtt>=1.5",
+]
