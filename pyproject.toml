@@ -5,8 +5,3 @@ dependencies = [
     "requests>=2.21",
     "paho_mqtt>=1.5",
 ]
-
-[tool.setuptools]
-packages = [
-    "traeger"
-]
