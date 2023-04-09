@@ -7,7 +7,7 @@ A simple interface to receiving updates from a Traeger WiFire grill.
 Not being on PyPI yet, you can still install via Pip:
 
 ```bash
-pip install 'traeger@git+https://github.com/kgutwin/trager'
+pip install 'traeger@git+https://github.com/kgutwin/traeger'
 ```
 
 ## Usage
